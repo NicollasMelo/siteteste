@@ -19,6 +19,7 @@ body {
     margin: 0px;
     padding-right: 0px;
     margin-right: 0px;
+    overflow-x: none;
     
 }
 header {  
@@ -37,8 +38,7 @@ header > h1  {
     font-weight: normal;
     padding-bottom: 0px;
     margin-bottom: 20px;
-    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.287); 
-    
+    text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.287);
 }
 
 
