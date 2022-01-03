@@ -143,12 +143,7 @@ div {
     margin: 0px -20px 30px -20px;
 }
 
-img {
-    min-width: 10%;
-    max-width: 100%;
-    width: 100%;
 
-}
 
 div > iframe#video {
     margin: auto;
