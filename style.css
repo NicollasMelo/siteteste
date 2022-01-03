@@ -84,6 +84,13 @@ main {
     border-bottom-right-radius: 10px;
 }
 
+source.picture {
+    width: 100%;
+    max-width: 100%;
+    min-width: 100%;
+}
+
+
 
 
 /*
