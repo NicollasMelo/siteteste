@@ -19,7 +19,6 @@ body {
     margin: 0px;
     padding-right: 0px;
     margin-right: 0px;
-    overflow-x: none;
     
 }
 header {  
@@ -27,7 +26,6 @@ header {
     padding: 10px;
     padding-top: 50px;
     padding-bottom: 0px;
-    width: 100%;
     
 }
 header > h1  {
@@ -80,7 +78,6 @@ main {
     margin-bottom: 30px;
     padding: 20px;
     background-color: white;
-    width: 100%;
     box-shadow: 0px 0px 10px rgb(0 0 0 / 42%);
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
