@@ -72,8 +72,9 @@ nav > a:hover {
 
 
 main {
-    min-width: 100px;
+    min-width: 380px;
     max-width: 800px;
+    width: 100%;
     margin: auto;
     margin-bottom: 30px;
     padding: 20px;
@@ -84,8 +85,8 @@ main {
 }
 
 source.picture {
-   width: auto;
-   padding: 40px 20;
+   width: 100%;
+   
 }
 
 
