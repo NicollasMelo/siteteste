@@ -84,9 +84,8 @@ main {
 }
 
 source.picture {
-    width: 100%;
-    max-width: 100%;
-    min-width: 100%;
+   width: auto;
+   padding: 40px 20;
 }
 
 
