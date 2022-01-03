@@ -17,6 +17,8 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ebe5c5;
     margin: 0px;
+    margin-right: -50px;
+    
 }
 header {
     
@@ -24,6 +26,7 @@ header {
     padding: 10px;
     padding-top: 50px;
     padding-bottom: 0px;
+
     
 }
 header > h1  {
@@ -40,13 +43,11 @@ header > h1  {
 
 
 p.titulo1 {
-    color: white;
+    color: rgb(255, 255, 255);
     max-width: 600px;
     padding-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.301);
-    
     text-align: center;
-    
 }
 
 nav {
@@ -73,7 +74,7 @@ nav > a:hover {
 
 
 main {
-    min-width: 200px;
+    min-width: 20px;
     max-width: 800px;
     margin: auto;
     margin-bottom: 30px;
@@ -141,13 +142,16 @@ div {
     margin: 0px -20px 30px -20px;
 }
 
+img {
+    margin: auto;
+    display: block;
+}
+
 div > iframe#video {
     margin: auto;
     display: flex; 
     
 }
-
-
 
 img#bugdroid {
     display: block;
@@ -208,12 +212,3 @@ footer {
 footer > p {
     text-align: center;
 }
-
- 
-
- 
- 
-
- 
-
-
