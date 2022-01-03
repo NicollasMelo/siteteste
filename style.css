@@ -26,6 +26,7 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
+    max-width: 10000px;
     /*background-image: linear-gradient(to bottom, #2fa866,#063d1e);
     padding: 10px;
     padding-top: 50px;
@@ -77,7 +78,7 @@ nav > a:hover {
 
 
 main {
-    
+ 
 min-width: 320px;
 max-width: 1000px;
 background-color: white;
@@ -212,7 +213,7 @@ p.artigo {
 }
 
 footer {
-    display: block;
+    display: flex;
     margin: auto;
     font-size: 13px;
     background-color:#063d1e ;
